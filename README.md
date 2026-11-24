@@ -39,3 +39,7 @@ olduğuna bakarak sıralar. Haber metinlerinden en çok ortak bilgiyi taşıyan 
 
 Ayarlar ve kaynak listesi şu klasörde durur: %APPDATA%\GundemOzet
 ```
+
+## Not
+
+Bu proje kişisel ve ticari olmayan bir geliştirici projesidir. Program haberleri sitelerin herkese açık RSS akışlarından okur. Her haber için yalnızca başlığı, kısa bir özeti ve kaynağa giden bağlantıyı gösterir. Haberlerin tüm hakları ilgili yayın kuruluşlarına aittir.
